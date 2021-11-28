@@ -1,5 +1,4 @@
 def main(msg):
-    #Print a message
-    #Adding the second comment to this file.
+    #No longer need comments here.
     print(msg)
 main("Hello People")
